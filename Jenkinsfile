@@ -1,5 +1,5 @@
 #!groovy
-
+#my love is jenkins
 def deployBranches = [ "master" ]
 def phase = "verify"
 
